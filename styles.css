@@ -1,0 +1,16 @@
+#box {
+  background-color: antiquewhite;
+  padding: 10px;
+  height: 150px;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+#b1 {
+  width: 100px;
+}
+
+#t1 {
+  margin: 0;
+}
